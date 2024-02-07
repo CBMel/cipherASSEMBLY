@@ -1,7 +1,6 @@
-TITLE grp8_project.asm
+TITLE cipherASSEMBLY.asm
 ;//Program Description: Cipher Thing
-;//Programmed by: Group 8 (Cory, Kye, Phillip, Ivan)
-;//Due Date: 12/09/22
+;//Created: 12/09/22
 INCLUDE Irvine32.inc
 
 ;// procedures****************************************************
